@@ -1,0 +1,31 @@
+body{
+     font-family: 'Poppins', sans-serif;
+
+}
+/* common styles  */
+.deep-blue-background-color{
+    background-color: #264653;
+}
+.orange-text{
+        color: #E76F51;
+    }    
+
+/* header section style  */
+.orange-background-btn{
+    background-color: #E76F51;
+}
+
+.grayscale-filter{
+    filter: grayscale(100%);
+}
+
+/* form section styles */
+  .form-control {
+    outline: none;
+    border: 2px solid #264653;
+    margin-bottom: 5px;
+    border-radius: 10px;
+    padding: 10px;
+  }
+
+
